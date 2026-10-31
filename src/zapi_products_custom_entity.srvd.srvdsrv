@@ -1,0 +1,4 @@
+@EndUserText.label: 'Custom entity Report'
+define service ZAPI_PRODUCTS_CUSTOM_ENTITY {
+  expose ZI_PRODUCTS_CUSTOM_ENTITY as PRODUCTS;
+}
